@@ -6,7 +6,7 @@ https://main--strong-florentine-f1f0f7.netlify.app/
 ## Description
 This is a classic "Rock, Paper, Scissors" game where the player competes against the computer.
 ## Note:
-For Cracker effect i refered the Following Website - 
+For Cracker effect I was refered the Following Website - 
 https://alvaromontoro.com/blog/68002/creating-a-firework-effect-with-css
 
 ## How to Play
